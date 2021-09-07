@@ -1,6 +1,6 @@
 #pragma once
-
-#include <assert.h>
+#include <stdio.h>
+//#include <assert.h>
 
 #define FULL_MASK 0xffffffff
 #define BLOCK_SIZE 512 // be a multiple of warpSize for not to cause inactive threads in shuffle 
