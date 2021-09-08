@@ -1,4 +1,4 @@
-This is a B-Spline implementation in my project by using OpenMP and CUDA.
+This is a B-Spline implementation in my project by using OpenMP (C/C++ and Fortran) and CUDA.
 
 It covers 1-dimensional to 5-dimensional data.
 You can calculate the fitting value, first- and second-derivative for 1-dimensional data.
