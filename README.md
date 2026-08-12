@@ -7,3 +7,5 @@ For higher-dimensional data, only fitting value and first-derivative are covered
 
 Reference:
 A smooth particle mesh Ewald method, J. Chem. Phys. 103, 8577 (1995);
+
+
